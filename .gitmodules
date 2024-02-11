@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "aws.wrfsmn"]
+	path = aws.wrfsmn
+	url = https://github.com/gonzalo1985/aws.wrfsmn
